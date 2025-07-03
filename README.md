@@ -38,7 +38,4 @@ WebVox is a simple video chat application built using WebRTC, enabling peer-to-p
    node server.js
    ```
    The server typically runs on `localhost:3000` (or as configured in `server.js`).
-
-4. **Access the Application**
-   Open a browser and navigate to `http://localhost:3000` (or the port specified in `server.js`). The `room.ejs` file will be served, displaying the video chat interface.
 ```
